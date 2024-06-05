@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BTL-LTNC/static/css/main.e65e9a69.css",
+    "main.js": "/BTL-LTNC/static/js/main.8a395ce8.js",
+    "static/js/453.1c13788b.chunk.js": "/BTL-LTNC/static/js/453.1c13788b.chunk.js",
+    "index.html": "/BTL-LTNC/index.html",
+    "main.e65e9a69.css.map": "/BTL-LTNC/static/css/main.e65e9a69.css.map",
+    "main.8a395ce8.js.map": "/BTL-LTNC/static/js/main.8a395ce8.js.map",
+    "453.1c13788b.chunk.js.map": "/BTL-LTNC/static/js/453.1c13788b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65e9a69.css",
+    "static/js/main.8a395ce8.js"
+  ]
+}
